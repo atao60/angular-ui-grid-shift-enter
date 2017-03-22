@@ -1,0 +1,19 @@
+<head>
+    <title>Démo ui-grid</title>
+    <base href="/"> 
+</head>
+
+<body layout="column" >
+    <div id="mainPage" 
+         class="ng-scope" 
+         ng-class="[mode, modeEcran.visible]" 
+         ng-app="popDemo" 
+         ng-controller="mainCtrl" 
+         ng-strict-di="">
+
+        <div id="siteView">
+            <div ui-view></div>  
+        </div>
+     
+    </div>
+</body>

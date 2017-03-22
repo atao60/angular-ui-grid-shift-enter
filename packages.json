@@ -1,0 +1,7 @@
+{
+  "async" : "0.2.10",
+  "lodash" : "3.10.0",
+  "officegen": "0.2.9",
+  "linq" : "3.0.5",
+  "meteor-node-stubs": "0.2.3"
+}

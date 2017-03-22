@@ -1,0 +1,61 @@
+{
+  "schmilblicks":
+  [
+    {
+      "nom": "Sensitive Schmoll concepts",
+      "description": "Development of a new concepts and identification of collaborations",
+      "type": "Knowledge development",
+      "soustype": "",
+      "datedebut": "2016-07-01",
+      "datefin": "",
+      "echeance": "",
+      "responsable": "tournesol",
+      "contributeurs": [
+        {"nom": "Irina", "type": "chercheur", "site": "Lille", "charge": "0.5"},
+        {"nom": "Thomas", "type": "technicien", "site": "Lille", "charge": "0.2"},
+        {"nom": "Mathieu", "type": "graphiste", "site": "Lille", "charge": "0.1"},
+        {"nom": "Bernard", "type": "technicien", "site": "Lille", "charge": "0.7"},
+        {"nom": "Hélène", "type": "chercheur", "site": "Lille", "charge": "0.3"},
+        {"nom": "Mireille", "type": "comptable", "site": "Paris", "charge": "0.2"}
+      ],
+      "public": true
+    }, {
+      "nom": "Development of a Schmoll view and identification of collaborations",
+      "description": "",
+      "type": "Product launch",
+      "soustype": "Futurist",
+      "datedebut": "2016-01-01",
+      "datefin": "2017-03-30",
+      "echeance": "",
+      "responsable": "tournesol",
+      "contributeurs": [
+        {"nom": "Arthur", "type": "chercheur", "site": "Toulouse", "charge": "0.5"},
+        {"nom": "Alberta", "type": "technicien", "site": "Toulouse", "charge": "0.2"},
+        {"nom": "Renée", "type": "graphiste", "site": "Toulouse", "charge": "0.1"},
+        {"nom": "Gérard", "type": "technicien", "site": "Toulouse", "charge": "0.7"},
+        {"nom": "Didier", "type": "chercheur", "site": "Toulouse", "charge": "0.3"},
+        {"nom": "Mireille", "type": "comptable", "site": "Paris", "charge": "0.2"}
+      ],
+      "public": true
+    }, {
+      "nom": "SCHMOLL-BIOMARQUEURS",
+      "description": "",
+      "type": "Knowledge development",
+      "soustype": "",
+      "datedebut": "2013-12-01",
+      "datefin": "2019-12-01",
+      "echeance": "",
+      "responsable": "tournesol",
+      "contributeurs": [
+        {"nom": "Frédéric", "type": "chercheur", "site": "Marseille", "charge": "0.5"},
+        {"nom": "Alberte", "type": "technicien", "site": "Marseille", "charge": "0.2"},
+        {"nom": "Rick", "type": "graphiste", "site": "Marseille", "charge": "0.1"},
+        {"nom": "Alphonse", "type": "technicien", "site": "Marseille", "charge": "0.7"},
+        {"nom": "Antoine", "type": "chercheur", "site": "Marseille", "charge": "0.3"},
+        {"nom": "Mireille", "type": "comptable", "site": "Paris", "charge": "0.2"}
+      ],
+      "public": true
+    }
+  ]
+}
+
